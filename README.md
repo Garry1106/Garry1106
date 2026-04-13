@@ -13,7 +13,7 @@
 
 - 👯 Open to collaborate on **AI/ML, Computer Vision, and SaaS products**
 
-- 📫 Reach me at **gauravdivekar1106@gmail.com**
+- 📫 Reach me at **gaurav@sucetastech.com**
 
 ---
 
